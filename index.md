@@ -11,8 +11,8 @@ humandate: "June 11-12, 2019"    # human-readable dates for the workshop (e.g., 
 humantime: "9:00 AM to 16:30 PM"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-06-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-06-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Jim Burke", "Thea Atwood", "Luke Jaeger", "Sarah Oelker"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Jim Burke", "Thea Atwood", "Ann Kardos", "Rachel Leach", "Sarah Oelker", "Shaun Trujillo"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Thea Atwood", "Jim Burke", "Luke Jaeger", "Sarah Oelker"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Thea Atwood", "Jim Burke", "Ann Kardos", "Rachel Leach", "Sarah Oelker", "Shaun Trujillo"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["soelker@mtholyoke.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -32,7 +32,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 
 
 {% comment %}
-For a workshop please delete the following block
+For a workshop please delete the following block - DONE
 {% endcomment %}
 
 
