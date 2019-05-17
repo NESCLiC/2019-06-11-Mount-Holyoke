@@ -85,13 +85,9 @@ AUDIENCE
 Explain who your audience is.  (In particular, tell readers if the
 workshop is only open to people from a particular institution.
 {% endcomment %}
-{% if page.carpentry == "swc" %}
-{% include sc/who.html %}
-{% elsif page.carpentry == "dc" %}
-{% include dc/who.html %}
-{% elsif page.carpentry == "lc" %}
-{% include lc/who.html %}
-{% endif %}
+<p id="who">
+  <strong>This workshop is aimed at undergraduate students doing independent research.</strong> You don't need to have any previous knowledge of the tools that will be presented at the workshop. Attendees from throughout the Five Colleges are welcome, but this workshop is particularly aimed at Mount Holyoke College students. 
+</p>
 
 {% comment %}
 LOCATION
@@ -104,11 +100,13 @@ address.
 {% if page.latlng %}
 <p id="where">
   <strong>Where:</strong>
-  {{page.address}}.
+  {{page.address}}. 
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+  
+  <strong>The workshop will take place in the Williston Library in Room 431.</strong> There is free on-street parking on Rt 116 / Woodbridge Street north of All Saints Episcopal Church, which is at 9 Woodbridge Street, South Hadley, MA, and on Church Street. Note that Church Street spots are few, and fill up quickly. If you need accessible parking please let us know, and we will contact campus parking to find out options. 
 </p>
 {% endif %}
 
