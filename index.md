@@ -154,7 +154,7 @@ special instructions.
 </p>
 <ul>
   <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
+  <li>Accessible restrooms are available, as are all-gender single-stall restrooms.</li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
@@ -165,6 +165,9 @@ special instructions.
   attempt to provide them.
 </p>
 
+SIGN UP
+
+<p>Signup will be via Google Form; link coming soon.</p>
 {% comment %}
 CONTACT EMAIL ADDRESS
 
