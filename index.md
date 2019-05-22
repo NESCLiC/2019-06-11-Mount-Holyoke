@@ -167,7 +167,7 @@ special instructions.
 
 SIGN UP
 
-<p>Signup will be via Google Form; link coming soon.</p>
+<p><a href="https://nesclic.github.io/2019-06-11-Mount-Holyoke/">Registration for Software Carpentry June 11 & 12 at Mount Holyoke College</a> Please note that this event is primarily for undergraduate researchers at Mount Holyoke College, and for Five Colleges researchers as space allows.</p>
 {% comment %}
 CONTACT EMAIL ADDRESS
 
