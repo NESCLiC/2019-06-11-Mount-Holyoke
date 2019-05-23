@@ -167,7 +167,7 @@ special instructions.
 
 SIGN UP
 
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScAXzXpxuU0j9i5n6619JehVlc7wpRJYGf4UrE0LDkZO4NpOA/viewform">Registration for Software Carpentry June 11 & 12 at Mount Holyoke College</a> Please note that this event is primarily for undergraduate researchers at Mount Holyoke College, and for Five Colleges researchers as space allows.</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScAXzXpxuU0j9i5n6619JehVlc7wpRJYGf4UrE0LDkZO4NpOA/viewform">Registration for Software Carpentry June 11 & 12 at Mount Holyoke College</a>. Please note that this event is primarily for undergraduate researchers at Mount Holyoke College, and for Five Colleges researchers as space allows.</p>
 {% comment %}
 CONTACT EMAIL ADDRESS
 
