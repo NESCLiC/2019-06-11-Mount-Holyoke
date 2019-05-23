@@ -770,8 +770,8 @@ please preview your site before committing, and make sure to run
       Instructors will provide a workaround for it if needed.</strong></p>
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
 {% endcomment %}
-<div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
-  {% comment %}<h3>OpenRefine</h3>
+{% comment %} <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
+  <h3>OpenRefine</h3>
   <p>
     For this lesson you will need <em>OpenRefine</em> and a
     web browser. <em>Note:</em> this is a Java program that runs on your machine (not in the cloud).
