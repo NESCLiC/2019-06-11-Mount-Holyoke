@@ -633,7 +633,7 @@ please preview your site before committing, and make sure to run
   {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
-<div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
+{% comment %}<div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
   <p>
@@ -686,9 +686,9 @@ please preview your site before committing, and make sure to run
         </p>
       </article>
     </div>
-  </div>
+  </div> {% endcomment %}
 </div> {% comment %} End of 'R' section. {% endcomment %}
-<!--
+{% comment %}
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
 
@@ -769,9 +769,9 @@ please preview your site before committing, and make sure to run
       <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
       Instructors will provide a workaround for it if needed.</strong></p>
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
--->
+{% endcomment %}
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
-  <h3>OpenRefine</h3>
+  {% comment %}<h3>OpenRefine</h3>
   <p>
     For this lesson you will need <em>OpenRefine</em> and a
     web browser. <em>Note:</em> this is a Java program that runs on your machine (not in the cloud).
@@ -819,7 +819,7 @@ please preview your site before committing, and make sure to run
         <p>If you are using a different browser, or if OpenRefine does not automatically open for you, point your browser at <a href="http://127.0.0.1:3333/">http://127.0.0.1:3333/</a> or <a href="http://localhost:3333">http://localhost:3333</a> to use the program.</p>
       </article>
     </div>
-  </div>
+  </div> {% endcomment %}
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
 {% comment %}
